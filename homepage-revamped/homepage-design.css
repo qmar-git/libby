@@ -1,0 +1,37 @@
+.animation {
+  width: 45vw;
+}
+.content h1 {
+  font-family: "Exo 2", sans-serif;
+  font-size: 3rem;
+  color: #455a64;
+  font-weight: bold;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.content h3 {
+  font-family: "Exo 2", sans-serif;
+  font-size: 1.3rem;
+  color: #000000;
+  font-weight: bold;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.content h4 {
+  font-family: "Exo 2", sans-serif;
+  font-size: 1.3rem;
+  color: #455a64;
+  font-weight: bold;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.navbar.bg-body-tertiary {
+  background-color: white;
+}
